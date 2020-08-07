@@ -8,7 +8,7 @@
 
 > A quick go at recreating the Twitter UI using Tailwind, and a tiny bit of Vue for 'posting' the tweet.
 
-![image](https://user-images.githubusercontent.com/8208896/89634817-88548f00-d8d8-11ea-804f-1886a0530edb.png)
+![image](https://user-images.githubusercontent.com/8208896/89635093-07e25e00-d8d9-11ea-9a0e-e86f6a55653f.png)
 
 ### 🏠 [Homepage](https://github.com/MattHeslington/Twitter-UI-with-Tailwind-Vue)
 
