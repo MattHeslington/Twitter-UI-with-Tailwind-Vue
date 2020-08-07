@@ -12,7 +12,7 @@
 
 ### 🏠 [Homepage](https://github.com/MattHeslington/Twitter-UI-with-Tailwind-Vue)
 
-### ✨ [Demo](https://changethislater.com)
+### ✨ [Demo](https://twitter-ui-with-tailwind-vue.vercel.app/)
 
 ## Install
 
@@ -30,7 +30,6 @@ npm run serve
 
 👤 **Matt Heslington**
 
-* Website: https://changethislater.com
 * Twitter: [@\_matt\_dev\_](https://twitter.com/\_matt\_dev\_)
 * Github: [@Matt Heslington](https://github.com/Matt Heslington)
 
