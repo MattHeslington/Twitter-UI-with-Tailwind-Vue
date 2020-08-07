@@ -10,8 +10,6 @@
 
 ![image](https://user-images.githubusercontent.com/8208896/89635093-07e25e00-d8d9-11ea-9a0e-e86f6a55653f.png)
 
-### 🏠 [Homepage](https://github.com/MattHeslington/Twitter-UI-with-Tailwind-Vue)
-
 ### ✨ [Demo](https://twitter-ui-with-tailwind-vue.vercel.app/)
 
 ## Install
