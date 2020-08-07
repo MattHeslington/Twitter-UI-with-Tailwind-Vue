@@ -1,19 +1,40 @@
-# twitter-tailwind
+<h1 align="center">Welcome to twitter-UI-tailwind-vue 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/\_matt\_dev\_" target="_blank">
+    <img alt="Twitter: \_matt\_dev\_" src="https://img.shields.io/twitter/follow/\_matt\_dev\_.svg?style=social" />
+  </a>
+</p>
 
-## Project setup
-```
+> A quick go at recreating the Twitter UI using Tailwind, and a tiny bit of Vue for 'posting' the tweet.
+
+### 🏠 [Homepage](https://github.com/MattHeslington/Twitter-UI-with-Tailwind-Vue)
+
+### ✨ [Demo](https://changethislater.com)
+
+## Install
+
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Usage
+
+```sh
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Author
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+👤 **Matt Heslington**
+
+* Website: https://changethislater.com
+* Twitter: [@\_matt\_dev\_](https://twitter.com/\_matt\_dev\_)
+* Github: [@Matt Heslington](https://github.com/Matt Heslington)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
